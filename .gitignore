@@ -1,0 +1,12 @@
+# Filename patterns to ignore
+*.class
+Generated*.java
+**/.springBean
+.classpath
+
+# Folders to ignore, whatever the place they are
+.metadata
+classes
+gensrc
+.settings
+

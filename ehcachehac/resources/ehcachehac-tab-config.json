@@ -1,0 +1,9 @@
+[ {
+  "basePath" : "/ehcachehac",
+  "mainTabLabel" : "Ehcache",
+  "subTabs" : [ {
+    "path" : "/cache/",
+    "label" : "Cache",
+    "skipPrefix" : false
+  }]
+} ]

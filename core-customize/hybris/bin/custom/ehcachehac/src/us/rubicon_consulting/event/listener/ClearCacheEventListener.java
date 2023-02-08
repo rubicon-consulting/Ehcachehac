@@ -4,7 +4,7 @@
  *  * Redistributions of source code must retain the above copyright
  *    notice, this list of conditions and the following disclaimer.
  *  * Redistributions requires the registration of the usage under
- * 	  http://www.rubicon-consulting.us/register-an-sap-commerce-cloud-extension-usage/
+ * 	  https://www.rubicon-consulting.us/register-an-sap-commerce-cloud-extension-usage/
  *  * Redistributions in binary form must reproduce the above
  *    copyright notice, this list of conditions and the following
  *    disclaimer in the documentation and/or other materials provided

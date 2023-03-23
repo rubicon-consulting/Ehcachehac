@@ -7,6 +7,8 @@ nor it is possible at runtime to review the cache hit/ratio to be able to tune t
 The new tab in hac will show you all Ehcache's and also allows to fetch the content of the cache and search in it. Additionally, the
 new tab will also allow to flush the each individual cache or all cache on a node or on all nodes in the cluster.
 
+See also our blog post about the capabilities at https://www.rubicon-consulting.us/2023/03/23/sap-commerce-ehcache/
+
 ## Installation
 
 Add the extension to your SAP Commerce Cloud bin/custom folder and add the extension to you localextensions.xml. After that just 
